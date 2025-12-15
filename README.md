@@ -14,3 +14,9 @@ A few resources to get you started if this is your first Flutter project:
 For help getting started with Flutter development, view the
 [online documentation](https://docs.flutter.dev/), which offers tutorials,
 samples, guidance on mobile development, and a full API reference.
+
+## Shorebird Commands
+- Shorebird init
+- Shorebird shorebird release android
+- Shorebird shorebird preview --release-version 1.0.0+2
+- shorebird patch android --release-version latest
